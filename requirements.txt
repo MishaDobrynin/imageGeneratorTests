@@ -1,0 +1,6 @@
+#pytorch: the neural nets, optimizers and automatic differentiation.
+torch>=2.0
+#pillow: loading images, drawing procedural shapes and saving pngs.
+Pillow>=9.0
+#numpy: building the per-pixel pattern fields quickly.
+numpy>=1.23
